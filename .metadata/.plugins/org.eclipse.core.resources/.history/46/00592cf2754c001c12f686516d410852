@@ -6,7 +6,6 @@ public class ascendingConsecutive {
 		
 		//test cases for ascending and consecutive
 		
-		System.out.println(ascendingConsecutive("223344"));
 		ascendingConsecutive("223344");
 		ascendingConsecutive("333444");
 		ascendingConsecutive("3322");
