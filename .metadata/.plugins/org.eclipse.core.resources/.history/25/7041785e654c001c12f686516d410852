@@ -1,0 +1,15 @@
+package codingChallenges;
+
+public class November23 {
+	
+	static public void main(String[] args) {
+		//creating test cases for my follow methods
+		
+		//below are test cases for square challenge
+		square(1);
+		
+	}
+	
+	static public void square(int x);
+	
+}

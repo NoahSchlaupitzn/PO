@@ -1,0 +1,33 @@
+package codingChallenges;
+
+public class November23 {
+	
+	static public void main(String[] args) {
+		//creating test cases for my follow methods
+		
+		//below are test cases for ascending and consecutive.
+		ascending("223344");
+		ascending("333444");
+		ascending("555222");
+		ascending("98");
+		
+		//below are test cases for square array
+		
+	}
+
+	/*
+	 * the purpose of this method is to display a string of numbers in ascending
+	 * and consecutive
+	 * 
+	 * rules:
+	 * numbers must be adjacent to each other,
+	 * must be at least two numbers,
+	 * doesn't matter how many digits per number,
+	 */
+	
+	public static void ascending(String numbers) {
+		
+		
+	}
+	
+}
